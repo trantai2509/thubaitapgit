@@ -16,6 +16,6 @@ object dulieuvande {
         lop = "23T1",
         diemchuyencan = "9.0",
         mota = "đi học đầy đủ",
-        giaiphap = "cố gắng làm bài tập"
+        giaiphap = "Nhắc nhở: cố gắng làm bài tập"
     )
 }
